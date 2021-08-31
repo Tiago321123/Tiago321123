@@ -1,4 +1,6 @@
-### Hi there 👋
+Meu nome é Tiago e estou me aprofundando nesse mundo da tecnologia, gosto muito de desafios, 
+principalmente quando consigo realizá-los. Quero muito uma vaga de estágio 
+na área de desenvolvimento, portanto estou sempre estudando além da faculdade.
 
 <!--
 **Tiago321123/Tiago321123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
