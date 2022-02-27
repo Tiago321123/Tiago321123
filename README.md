@@ -1,4 +1,4 @@
-Meu nome é Tiago e estou me aprofundando nesse mundo da tecnologia, gosto muito de desafios, 
+Hello!! Meu nome é Tiago e estou me aprofundando nesse mundo da tecnologia, gosto muito de desafios, 
 principalmente quando consigo realizá-los. Quero muito uma vaga de estágio 
 na área de desenvolvimento, portanto estou sempre estudando além da faculdade.
 
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
  ##
