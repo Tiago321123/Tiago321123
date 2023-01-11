@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Tiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Tiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Tiago-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Tiago-GIT" height="30" width="40" src="https://scrapbox.io/icons/Ruby_on_Rails"
 </div>
+
+##
+ 
+   ![Snake animation](https://github.com/Tiago321123/Tiago321123/blob/output/github-contribution-grid-snake.svg)
   
